@@ -6,9 +6,12 @@
 	<array>
 		<string>handlebars</string>
 		<string>handlebars.html</string>
+		<string>handlexbars</string>
+		<string>handlexbars.html</string>
 		<string>hbr</string>
 		<string>hbrs</string>
 		<string>hbs</string>
+		<string>hxbs</string>
 		<string>hdbs</string>
 		<string>hjs</string>
 		<string>mu</string>
