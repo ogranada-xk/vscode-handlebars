@@ -24,12 +24,12 @@
 			"id": "handlexbars",
 			"aliases": ["Handlebars", "handlebars", "handlexbars"],
 			"extensions": [".handlebars",".hbs",".tpl", ".handlexbars", ".hdxbs"],
-			"configuration": "./handlebars.configuration.json"
+			"configuration": "./handlexbars.configuration.json"
 		}],
 		"grammars": [{
 			"language": "handlexbars",
 			"scopeName": "text.html.handlebars",
-			"path": "./syntaxes/handlebars.tmLanguage"
+			"path": "./syntaxes/handlexbars.tmLanguage"
 		}],
 		"snippets": [
 			{
